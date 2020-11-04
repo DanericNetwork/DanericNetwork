@@ -1,16 +1,15 @@
 ### Hi there 👋
+My name is Daneric! I'm 16 years old and I mostly program websites and discord bots!
 
-<!--
-**DanericNetwork/DanericNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **many projects** 
+- 🌱 I’m currently learning **java**
+- 💬 Ask me about **almost everything**
+- 📫 How you can contact me:
+  - **Mail: info@daneric.dev**
+  - **Discord tag: Daneric#1617**
+  - **Discord Community:** [Click here](https://discord.gg/zxrp4hS)
+- ⚡ Fun fact: **I started programming when I was thirteen years old!**
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanericNetwork&show_icons=true)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub metrics](https://metrics.lecoq.io/DanericNetwork)  
