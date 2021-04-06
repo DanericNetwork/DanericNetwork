@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Daneric! I'm 16 years old and I mostly program websites and discord bots!
+My name is Daneric! I'm 17 years old and I mostly program websites and discord bots!
 
 - 🔭 I’m currently working on **many projects** 
 - 🌱 I’m currently learning **java**
