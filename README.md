@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 My name is Daneric! I'm 17 years old and I mostly program websites and discord bots!
 
 - 🔭 I’m currently working on **many projects** 
@@ -7,7 +7,7 @@ My name is Daneric! I'm 17 years old and I mostly program websites and discord b
 - 📫 How you can contact me:
   - **Mail: info@daneric.dev**
   - **Discord tag: Daneric#1617**
-  - **Discord Community:** [Click here](https://discord.gg/zxrp4hS)
+  - **Discord Community:** [Click here](https://discord.gg/Byz8m3TQaH)
 - ⚡ Fun fact: **I started programming when I was thirteen years old!**
 
 ![Profile views](https://gpvc.arturio.dev/DanericNetwork)  
@@ -17,6 +17,3 @@ My name is Daneric! I'm 17 years old and I mostly program websites and discord b
 ![Daneric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Daneric)
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/DanericNetwork) -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
