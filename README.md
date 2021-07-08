@@ -1,9 +1,8 @@
 ### Hi! 👋
 My name is Daneric! I'm 17 years old and I mostly program websites and discord bots!
 
-- 🔭 I’m currently working on **many projects** 
-- 🌱 I’m currently learning **java**
-- 💬 Ask me about **almost everything**
+- 🔭 I’m currently working on **some projects** 
+- 🌱 I’m currently learning **javascript**
 - 📫 How you can contact me:
   - **Mail: info@daneric.dev**
   - **Discord tag: Daneric#1617**
