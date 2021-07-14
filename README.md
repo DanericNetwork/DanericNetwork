@@ -7,7 +7,7 @@ My name is Daneric! I'm 17 years old and I mostly program websites and discord b
   - **Mail: info@daneric.dev**
   - **Discord tag: Daneric#1617**
   - **Discord Community:** [Click here](https://discord.gg/Byz8m3TQaH)
-- ⚡ Fun fact: **I started programming when I was thirteen years old!**
+- ⚡ Fun fact: **I started programming when I was thirteen years!**
 
 ![Profile views](https://gpvc.arturio.dev/DanericNetwork)  
 
