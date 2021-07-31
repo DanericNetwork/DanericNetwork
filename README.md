@@ -11,9 +11,9 @@ My name is Daneric! I'm 17 years old and I mostly program websites and discord b
 
 ![Profile views](https://gpvc.arturio.dev/DanericNetwork)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanericNetwork&count_private=true&show_icons=true&include_all_commits=true&enable_animations=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanericNetwork&theme=dark&count_private=true&show_icons=true&include_all_commits=true&enable_animations=true)  
 
-![Daneric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Daneric)
+![Daneric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Daneric&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanericNetwork&theme=dark)](https://git.io/streak-stats)
 
