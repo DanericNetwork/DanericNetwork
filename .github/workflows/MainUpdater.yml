@@ -3,7 +3,7 @@ name: Main ReadMe Updater
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 */10 * * *'
 
