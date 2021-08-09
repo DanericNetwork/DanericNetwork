@@ -43,6 +43,7 @@ const Daneric = {
 
 ## Stats
 <hr>
+
 ![Profile views](https://gpvc.arturio.dev/DanericNetwork)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanericNetwork&theme=dark&count_private=true&show_icons=true&include_all_commits=true&enable_animations=true)  
