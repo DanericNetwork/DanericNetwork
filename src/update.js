@@ -36,7 +36,7 @@ const Daneric = {
     },
     CreatedAt: "${new Date(UserData.created_at).toString()}",
     Stars: {{ STARS }},
-    Followers: {{ FOLLOWERS }},
+    Followers: ${UserData.followers},
     Projects: ["Funkie", "BlockCord"]
 };
 \`\`\`
