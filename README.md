@@ -8,6 +8,28 @@ My name is Daneric! I'm 17 years old and I mostly program websites and discord b
   - **Discord tag: Daneric#1617**
   - **Discord Community:** [Click here](https://discord.gg/Byz8m3TQaH)
 - ⚡ Fun fact: **I started programming when I was thirteen!**
+    
+
+```js
+const Daneric = {
+    Age: 17,
+    Description: "Hello i am a developer",
+    Website: "https://www.daneric.dev",
+    FavouriteLanguage: "Javascript",
+    TotalCommits: {{ COMMITS }},
+    Repositories: {
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    },
+    CreatedAt: "Sat Aug 25 2018 19:45:36 GMT+0000 (Coordinated Universal Time)",
+    Stars: {{ STARS }},
+    Followers: {{ FOLLOWERS }},
+    Projects: ["Funkie", "BlockCord"]
+};
+```
+
+## Stats
+<hr>
 
 ![Profile views](https://gpvc.arturio.dev/DanericNetwork)  
 
@@ -16,5 +38,3 @@ My name is Daneric! I'm 17 years old and I mostly program websites and discord b
 ![Daneric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Daneric&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanericNetwork&theme=dark)](https://git.io/streak-stats)
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/DanericNetwork) -->
