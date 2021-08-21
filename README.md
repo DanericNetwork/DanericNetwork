@@ -16,13 +16,13 @@ const Daneric = {
     Description: "Hello i am a developer",
     Website: "https://www.daneric.dev",
     FavouriteLanguage: "Javascript",
-    TotalCommits: 262,
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 8,
-       Contributed: 2
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Sat Aug 25 2018 19:45:36 GMT+0000 (Coordinated Universal Time)",
-    Stars: 1,
+    Stars: {{ STARS }},
     Followers: 7,
     Projects: ["Funkie", "BlockCord"]
 };
@@ -31,7 +31,7 @@ const Daneric = {
 ## Stats
 <hr>
 
-![Profile views](https://gpvc.arturio.dev/DanericNetwork)  
+![Profile views](https://komarev.com/ghpvc/?username=Danericnetwork&style=flat-square&color=blue) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanericNetwork&theme=dark&count_private=true&show_icons=true&include_all_commits=true&enable_animations=true)  
 
