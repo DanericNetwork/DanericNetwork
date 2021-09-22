@@ -16,14 +16,14 @@ const Daneric = {
     Description: "Hello i am a developer",
     Website: "https://www.daneric.dev",
     FavouriteLanguage: "Javascript",
-    TotalCommits: 488,
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 9,
-       Contributed: 3
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Sat Aug 25 2018 19:45:36 GMT+0000 (Coordinated Universal Time)",
-    Stars: 1,
-    Followers: 9,
+    Stars: {{ STARS }},
+    Followers: 10,
     Projects: ["Funkie", "BlockCord"]
 };
 ```
