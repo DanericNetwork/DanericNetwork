@@ -15,7 +15,7 @@ const fs = require('fs');
 My name is Daneric! I'm 17 years old and I mostly program websites and discord bots!
 
 - 🔭 I’m currently working on **some projects** 
-- 🌱 learning **typescript**
+- 🌱 currently learning **PHP/Laravel** at school
 - 📫 How you can contact me:
   - **Mail: info@daneric.dev**
   - **Discord tag: Daneric#1617**
