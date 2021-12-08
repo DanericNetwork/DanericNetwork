@@ -8,25 +8,6 @@ My name is Daneric! I'm 17 years old and I mostly program websites and discord b
   - **Discord tag: Daneric#1617**
   - **Discord Community:** [Click here](https://discord.gg/Byz8m3TQaH)
 - ⚡ Fun fact: **I started programming when I was thirteen!**
-    
-
-```js
-const Daneric = {
-    Age: 17,
-    Description: "Hello i am a developer",
-    Website: "https://www.daneric.dev",
-    FavouriteLanguage: "Javascript",
-    TotalCommits: 844,
-    Repositories: {
-       Created: 15,
-       Contributed: 4
-    },
-    CreatedAt: "Sat Aug 25 2018 19:45:36 GMT+0000 (Coordinated Universal Time)",
-    Stars: 1,
-    Followers: 12,
-    Projects: ["Funkie", "BlockCord"]
-};
-```
 
 ## Stats
 <hr>
