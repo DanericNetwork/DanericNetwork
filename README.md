@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm Daneric, an 19 year old student from the Netherlands, I mostly code web applications and discord bots.
+I'm Daneric, an 20 year old student from the Netherlands, I mostly code web applications and discord bots.
 
 ## Stats
 ![Profile views](https://komarev.com/ghpvc/?username=Danericnetwork&style=flat-square&color=blue) 
