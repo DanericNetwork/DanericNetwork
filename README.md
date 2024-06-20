@@ -1,11 +1,11 @@
 ### Hi! 👋
-I'm Daneric, an 20 year old student from the Netherlands, I mostly code web applications and discord bots.
+I'm Daneric, a 20-year-old software engineer from the Netherlands. I specialize in coding web apps, developing Discord bots, and occasionally creating Minecraft plugins. Feel free to explore my best projects in my repositories or visit my portfolio website at [daneric.dev](https://daneric.dev). You can also get in touch with me through the website.
 
 ## Stats
 ![Profile views](https://komarev.com/ghpvc/?username=Danericnetwork&style=flat-square&color=blue) 
 
-![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danericnetwork&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danericnetwork&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danericnetwork&theme=github_dark)
+![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danericnetwork&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danericnetwork&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danericnetwork&theme=github&utcOffset=2)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanericNetwork&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanericNetwork&theme=github-light)](https://git.io/streak-stats)
