@@ -7,5 +7,3 @@ I'm Daneric, a 21-year-old software engineer from the Netherlands. I specialize 
 ![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danericnetwork&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danericnetwork&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danericnetwork&theme=github&utcOffset=2)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanericNetwork&theme=github-light)](https://git.io/streak-stats)
